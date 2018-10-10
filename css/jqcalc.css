@@ -1,0 +1,11 @@
+input{
+  padding:4px;
+}
+button{
+  padding: 1px 15px 1px 15px;
+  margin: 3px 5px 0 5px;
+  font-size: 25px;
+}
+.containerCalc{
+  text-align: center;
+}
